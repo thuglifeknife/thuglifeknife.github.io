@@ -5,7 +5,7 @@
             "goalData": {
                 "start": 0,
                 "current": 262,
-                "end": 1000,
+                "end": 1000
             },
             "icon": "8598"
         },
@@ -13,8 +13,7 @@
             "goalData": {
                 "start": 0,
                 "current": 23,
-                "end": 90,
-                "unit": "SH"
+                "end": 90
             },
             "icon": "2259"
         }

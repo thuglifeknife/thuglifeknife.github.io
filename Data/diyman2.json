@@ -2,10 +2,10 @@
     "frames": [
         {
             "goalData": {
+"text": "262 shares"
                 "start": 0,
                 "current": 262,
                 "end": 1000,
-                "unit": "ㅤSH"
             },
             "icon": "8598"
         },
@@ -16,7 +16,7 @@
                 "end": 90,
                 "unit": "SH"
             },
-            "icon": "8598"
+            "icon": "2259"
         }
     ]
 }

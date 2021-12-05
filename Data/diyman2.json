@@ -1,29 +1,12 @@
 {
-    "frames": [
-        {
-            "text": "AAPL",
-            "icon": "8598"
-        },
-        {
-            "goalData": {
-                "start": 0,
-                "current": 262,
-                "end": 1000,
-                "unit": ""
-            },
-            "icon": "8598"
-        },
-        {
-            "index": 2,
-            "chartData": [
-                10,
-                20,
-                5,
-                40,
-                20,
-                15,
-                20
-            ]
-        }
+  "frames" : [
+    {
+      "icon": "8598",
+      "goalData": {
+        "start": 0,
+        "current": 262,
+        "end": 1000,
+        "unit": "SH"
     ]
+  }
 }

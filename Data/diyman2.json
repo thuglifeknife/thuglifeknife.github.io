@@ -1,9 +1,14 @@
 {
     "frames": [
-        {
-            "text": "AAPL",
-            "icon": "8598"
-        },
+         {
+            "goalData": {
+                "start": 0,
+                "current": 23,
+                "end": 90,
+                "unit": ""
+            },
+            "icon": "2259"
+        }
         {
             "goalData": {
                 "start": 0,

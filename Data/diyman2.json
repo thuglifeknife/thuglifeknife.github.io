@@ -3,9 +3,9 @@
         {
             "goalData": {
                 "start": 0,
-                "current": 1500,
-                "end": 2000,
-                "unit": ""
+                "current": 262,
+                "end": 1000,
+                "unit": "SH"
             },
             "icon": "8598"
         }

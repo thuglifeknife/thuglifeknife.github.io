@@ -1,8 +1,13 @@
 {
     "frames": [
         {
-            "text": "SAVINGS",
-            "icon": "61"
+            "text": "262 SH",
+            "icon": "4189"
+		"goalData": {
+                "start": 0,
+                "current": 262,
+                "end": 1000,
+                "unit": ""
         },
         {
             "goalData": {

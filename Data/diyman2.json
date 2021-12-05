@@ -3,6 +3,11 @@
     {
       "icon": "4189",
       "text": "262 SH"
+	"goalData" : {
+         "start" : 0,
+         "current" : 262,
+         "end" : 1000,
+     },
     }
   ]
 }

@@ -1,22 +1,8 @@
 {
-    "frames": [
-        {
-            "text": "262 SH",
-            "icon": "4189"
-		"goalData": {
-                "start": 0,
-                "current": 262,
-                "end": 1000,
-                "unit": ""
-        },
-        {
-            "goalData": {
-                "start": 0,
-                "current": 1500,
-                "end": 2000,
-                "unit": ""
-            },
-            "icon": "34"
-        }
-    ]
+  "frames" : [ 
+    {
+      "icon": "4189",
+      "text": "262 SH"
+    }
+  ]
 }

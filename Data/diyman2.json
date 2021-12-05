@@ -1,12 +1,12 @@
 {
   "frames" : [
     {
-      "icon": "8598",
+      "icon": "22835",
       "goalData": {
         "start": 0,
-        "current": 262,
-        "end": 1000,
-        "unit": ""
+        "current": 6000,
+        "end": 10000,
+        "unit": "MI"
     ]
   }
 }

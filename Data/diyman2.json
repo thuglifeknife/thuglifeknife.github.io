@@ -1,10 +1,6 @@
 {
     "frames": [
         {
-            "text": "SAVINGS",
-            "icon": "61"
-        },
-        {
             "goalData": {
                 "start": 0,
                 "current": 1500,
